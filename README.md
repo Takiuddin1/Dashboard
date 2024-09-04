@@ -27,9 +27,3 @@
  ### 3.Data Analysis:
  
 ![](https://github.com/sahanur1111/Credit_Card_Financial_Dashboard/blob/main/Credit_Card_Report_page-0001.jpg)
-
-
-# #.Contact Me ↓
-Sahanur Alam - [](gmail.com) - sahanur.lohapur@gmail.com
-
-Portfolio: [https://portfolio-io-lzl4.vercel.app/](https://portfolio-io-lzl4.vercel.app/)
