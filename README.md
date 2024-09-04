@@ -14,7 +14,7 @@
 
  ### 1.Credit Card Transation Report:
  
-![](https://github.com/sahanur1111/Credit_Card_Financial_Dashboard/blob/main/Credit_Card_Report_transation_02.jpg)
+![](https://github.com/Takiuddin1/Dashboard/blob/main/Credit_Card_Report_transation_02.jpg)
 
  
  
