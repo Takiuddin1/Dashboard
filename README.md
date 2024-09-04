@@ -26,4 +26,4 @@
 
  ### 3.Data Analysis:
  
-![](https://github.com/sahanur1111/Credit_Card_Financial_Dashboard/blob/main/Credit_Card_Report_page-0001.jpg)
+![](https://github.com/Takiuddin1/Dashboard/blob/main/Credit_Card_Report_page-0001.jpg)
