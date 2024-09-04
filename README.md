@@ -19,7 +19,7 @@
  
  
  ### 2.Credit Card Customer Report:
- ![](https://github.com/sahanur1111/Credit_Card_Financial_Dashboard/blob/main/Credit_Card_Report_customer-0003.jpg)
+ ![](https://github.com/Takiuddin1/Dashboard/blob/main/Credit_Card_Report_customer-0003.jpg)
 
 
 
